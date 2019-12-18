@@ -16,6 +16,7 @@ public class GithubApplication {
         System.out.println("push");
 
         System.out.println("github2");
+        System.out.println("push");
 
 
     }
