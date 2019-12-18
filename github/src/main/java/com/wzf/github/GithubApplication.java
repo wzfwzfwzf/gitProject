@@ -10,6 +10,7 @@ public class GithubApplication {
         SpringApplication.run(GithubApplication.class, args);
         System.out.println("1");
         System.out.println("666");
+        System.out.println("stash");
     }
 
 }
