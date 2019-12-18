@@ -12,7 +12,11 @@ public class GithubApplication {
         System.out.println("666");
         System.out.println("stash");
         System.out.println("github");
+
         System.out.println("push");
+
+        System.out.println("github2");
+
 
     }
 
